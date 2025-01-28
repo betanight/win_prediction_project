@@ -71,4 +71,4 @@ The Random Forest and Logistic Regression models performed the best, achieving h
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/betanight/win_prediction_project.git
+   git clone https://github.com/betaknight/win_prediction_project.git
